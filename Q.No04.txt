@@ -1,0 +1,14 @@
+Solution:- GitHub is a web-based platform that provides hosting for version control using Git. It serves as a centralized hub for software development, enabling collaboration, code sharing, and version control among developers. GitHub simplifies and enhances the collaborative aspects of software development by providing features like pull requests, issue tracking, and wikis.
+
+Version Control:- GitHub uses Git, a distributed version control system, to track changes in code over time. This allows multiple developers to work on a project simultaneously without conflicts.
+
+Collaboration:- Developers can collaborate on projects seamlessly through features such as pull requests. Pull requests allow contributors to propose changes, discuss them, and merge them into the main codebase.
+
+Issue Tracking:- GitHub provides a robust issue tracking system, enabling users to report bugs, suggest enhancements, and discuss various aspects of the project. Issues can be assigned, labeled, and prioritized.
+
+Code Review:- Pull requests also facilitate code review, where team members can comment on specific lines of code, ask questions, and ensure the quality of the codebase.
+
+Continuous Integration:
+GitHub integrates with various CI/CD (Continuous Integration/Continuous Deployment) tools, automating the process of building, testing, and deploying code changes.
+
+Bitbucket:- Bitbucket is a Git and Mercurial code management platform that integrates with other Atlassian products. It provides source code collaboration, CI/CD, and issue tracking.

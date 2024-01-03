@@ -1,0 +1,20 @@
+Solution-
+Find a Project:- Explore GitHub or other platforms to discover open-source projects that align with your interests and skills.
+
+Read the Documentation:- Carefully read the project's README file and documentation to understand its purpose, code structure, and contribution guidelines.
+
+Fork the Repository:- Click the "Fork" button on the project's GitHub page to create a copy of the repository in your GitHub account.
+
+Clone Your Fork:- Open a terminal and clone the forked repository to your local machine.
+
+Make Changes:- Implement the changes or fixes you want to contribute. Write clean, well-documented code.
+
+Commit Changes:- Stage and commit your changes locally.
+
+Push Changes to Your Fork:- Push your changes to your fork on GitHub.
+
+Create Pull Request:- Visit your fork on GitHub and click the "New Pull Request" button.
+Compare the changes between your branch and the original repository's main branch.
+Provide a detailed description of your changes and click "Create Pull Request."
+
+Pull Request Approval:- Once your changes are reviewed and approved, a project maintainer will merge your pull request.
